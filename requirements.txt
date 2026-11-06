@@ -7,3 +7,4 @@ shapely
 pytz
 pysolar
 folium
+scikit-learn
